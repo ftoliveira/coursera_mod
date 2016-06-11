@@ -1,0 +1,23 @@
+.chicken {
+    margin-top: 12.5px;
+}
+
+.sushi {
+    margin-bottom: 12.5px;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.main {
+    background-color: #1b6d85;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 2em;
+    padding: 50px;
+}
+
+.main > h1 {
+    margin-bottom: 20px;
+}
